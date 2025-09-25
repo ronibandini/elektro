@@ -18,6 +18,6 @@ English https://www.hackster.io/roni-bandini/making-an-elektro-robot-for-nerdear
     • 2 x 20 watts 4 ohms speakers *
     • Dual 5v 12v Power Supply from Iomega Zip Drive *
     • microSD card
-* recycled
+
 
 
