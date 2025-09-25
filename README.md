@@ -1,3 +1,5 @@
+<img width="1200" height="1600" alt="ElektroPortrait1" src="https://github.com/user-attachments/assets/ec64c8a5-8d12-4bef-8a9a-164e88a17d25" />
+
 # elektro
 Elektro robot for Nerdearla 2025
 
